@@ -1,0 +1,151 @@
+{
+  "name": "Daniel Marcos Lorrio",
+  "sections": {
+    "experience": true,
+    "projects": false,
+    "skills": true
+  },
+  "about": {
+    "position": "Software Architect",
+    "description": "I'm a software architect with a broad range of experience spanning over 8 years. I have hands-on expertise across various technologies, and I've been involved in everything from requirements analysis and solution design to implementation and delivery.",
+    "social": {
+      "github": "https://github.com/dmarcosl",
+      "linkedin": "https://linkedin.com/in/dmarcosl"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "position": "Software Architect",
+        "company": "knowmad mood",
+        "period": {
+          "start": "Jun 2023",
+          "end": "Present"
+        },
+        "description": [
+          "Participation in a CI/CD project of Mercadona.",
+          "Responsible for the analysis, design, and development of microservices, batch applications, APIs, and event-driven integrations.",
+          "Led a team of one frontend developer, two backend developers, and one QA, while participating in all project phases."
+        ],
+        "skills": ["Java 21", "Spring", "WebFlux", "Maven", "Swagger", "Kafka", "Docker", "PostgreSQL", "Jenkins", "Spinnaker", "OpenShift", "Kibana", "Grafana"]
+      },
+      {
+        "position": "Software Architect",
+        "company": "knowmad mood",
+        "period": {
+          "start": "Ene 2023",
+          "end": "Feb 2024"
+        },
+        "description": [
+          "Participation in a Multimedia project of Mercadona.",
+          "Responsible for the analysis, design, and development of microservices, batch applications, and APIs.",
+          "Led a team of one backend developer, while participating in all project phases."
+        ],
+        "skills": ["Java 17", "Spring", "WebFlux", "Maven", "Swagger", "Kafka", "Docker", "PostgreSQL", "Jenkins", "Spinnaker", "Google Cloud", "Redis", "OpenShift", "Kibana", "Grafana"]
+      },
+      {
+        "position": "Software Developer",
+        "company": "knowmad mood",
+        "period": {
+          "start": "Oct 2021",
+          "end": "Jan 2023"
+        },
+        "description": [
+          "Participation in a Order Management project of Zara.",
+          "Adaptation of old microservices to hexagonal architecture and reactive programming.",
+          "Correction of mojibake in Arabic, Cyrillic, and Asian texts in the new ticket."
+        ],
+        "skills": ["Java 17", "Spring", "WebFlux", "Maven", "Swagger", "Kafka", "Docker", "MongoDB", "PostgreSQL", "Jenkins", "Spinnaker", "OpenShift", "Greylog", "Grafana"]
+      },
+      {
+        "position": "Software Developer",
+        "company": "Publicaciones Alimarket, S.A.",
+        "period": {
+          "start": "Nov 2016",
+          "end": "Oct 2021"
+        },
+        "description": [
+          "Creating software solutions to the needs of the company.",
+          "Architecture, development and maintenance of many web and batch applications and REST APIs.",
+          "Installation of environments and project deployment on cloud environments."
+        ],
+        "skills": ["Java 11", "Python 3", "Angular 12", "Maven", "MongoDB", "PostgreSQL", "Redis", "Jenkins", "Amazon Web Services", "Google Cloud"]
+      },
+      {
+        "position": "Software Developer",
+        "company": "NTT DATA",
+        "period": {
+          "start": "Jun 2016",
+          "end": "Nov 2016"
+        },
+        "description": [
+          "Participation in a project of Telefónica.",
+          "Migration of legacy projects to microservices.",
+          "Deployment of projects on cloud environments."
+        ],
+        "skills": ["Java 11", "Python 3", "Angular 12", "Maven", "MongoDB", "PostgreSQL", "Redis", "Jenkins", "Amazon Web Services", "Google Cloud"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "name": "XYZ Project",
+        "company": "ABC Company",
+        "period": {
+          "start": "Jun 2023",
+          "end": "Presente"
+        },
+        "bullets": [
+          "New architecture implementation",
+          "50% performance improvement",
+          "External APIs integration"
+        ],
+        "skills": ["React", "TypeScript", "GraphQL", "Docker"]
+      },
+      {
+        "name": "XYZ Project",
+        "company": "ABC Company",
+        "period": {
+          "start": "Jun 2023",
+          "end": "Presente"
+        },
+        "bullets": [
+          "New architecture implementation",
+          "50% performance improvement",
+          "External APIs integration"
+        ],
+        "skills": ["React", "TypeScript", "GraphQL", "Docker"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "languagesBest": "Languages - Best at",
+      "languagesGood": "Languages - Advanced Knowledge",
+      "languagesBasic": "Languages - Basic Knowledge",
+      "backend": "Back-end Frameworks & Libraries",
+      "frontend": "Front-end Frameworks & Libraries",
+      "messaging": "Messaging",
+      "cloud": "Cloud",
+      "database": "Databases",
+      "devops": "DevOps",
+      "observability": "Observability",
+      "api": "API & Integrations"
+    },
+    "languagesBest": ["Python", "Rust", "Java", "TypeScript", "JavaScript", "Go"],
+    "languagesGood": ["Ruby" , "C#", "C++", "C", "Dart", "Kotlin", "Lua", "LaTeX"],
+    "languagesBasic": ["Fortran", "Haskell", "Elixir", "Erlang", "Php", "Perl"],
+    "backend": ["Spring", "WebFlux", "FastAPI", "SQLAlchemy", "Asyncio", "Celery", "Flask", "Axum", "Actix", "Gin", "Rails", "Jekyll"],
+    "frontend": ["Angular", "React", "Flutter", "Capacitor", "Unity"],
+    "messaging": ["Kafka", "RabbitMQ", "Amazon SQS", "Google Pub/Sub"],
+    "cloud": ["AWS", "GCP", "Firebase"],
+    "database": ["PostgreSQL", "DynamoDB", "BigQuery", "Redis", "MongoDB", "MySQL", "Oracle", "SQLite", "Cassandra", "CouchDB"],
+    "devops": ["GitHub Actions", "Docker", "Kubernetes", "ProxMox", "OpenShift", "Jenkins", "Spinnaker"],
+    "observability": ["Grafana", "Kibana", "K9s", "Prometheus"],
+    "api": ["OpenAPI", "REST", "GraphQL", "gRPC", "WebSockets"]
+  }
+} 
