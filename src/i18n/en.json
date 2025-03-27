@@ -28,7 +28,7 @@
           "Responsible for the analysis, design, and development of microservices, batch applications, APIs, and event-driven integrations.",
           "Led a team of one frontend developer, two backend developers, and one QA, while participating in all project phases."
         ],
-        "skills": ["Java 21", "Spring", "WebFlux", "Maven", "Swagger", "Kafka", "Docker", "PostgreSQL", "Jenkins", "Spinnaker", "OpenShift", "Kibana", "Grafana"]
+        "skills": ["Java 21", "Spring", "WebFlux", "Maven", "Python", "FastAPI", "Swagger", "Kafka", "Docker", "PostgreSQL", "Jenkins", "Spinnaker", "OpenShift", "Kibana", "Grafana"]
       },
       {
         "position": "Software Architect",
